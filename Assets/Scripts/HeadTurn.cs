@@ -6,6 +6,7 @@ public class HeadTurn : MonoBehaviour
 {
     [SerializeField]
     private Transform _neckBone; // The transform that will be rotated (neck in this case)
+    private Quaternion _baseNeckBoneRotation;
     [SerializeField]
     private float _searchRadius = 10f;
 
@@ -19,18 +20,22 @@ public class HeadTurn : MonoBehaviour
     [SerializeField]
     private float yMin = -80f;
 
+    private void Start()
+    {
+        _baseNeckBoneRotation = _neckBone.rotation;
+    }
     private void FixedUpdate()
     {
         GameObject player = FindPlayerInRadius(_searchRadius);
         if (player != null)
         {
-            //_neckBone.LookAt(player.transform); // Might need Quaternion.Slerp
-            //_neckBone.rotation = Quaternion.RotateTowards(_neckBone.transform.rotation, player.transform.rotation, Time.deltaTime * 100);
             Quaternion looking = Quaternion.LookRotation(player.transform.position - _neckBone.position);
-            Debug.Log(looking.eulerAngles);
-            looking.eulerAngles = ClampAngles(looking);
-            Debug.Log(looking.eulerAngles);
-            _neckBone.rotation = Quaternion.Slerp(_neckBone.rotation, looking, Time.deltaTime * 3);
+
+            if (Quaternion.Angle(looking, _baseNeckBoneRotation) >= 90f)
+            {
+                looking = _neckBone.rotation;
+            }
+             _neckBone.rotation = Quaternion.Slerp(_neckBone.rotation, looking, Time.deltaTime * 3);
         }
     }
 
