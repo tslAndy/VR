@@ -1696,7 +1696,7 @@ GameObject:
   - component: {fileID: 860830498}
   m_Layer: 6
   m_Name: XR Origin
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2073,6 +2073,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03c9bb2875b3ed441a89fc88ed0cd136, type: 3}
+--- !u!4 &1281956618 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -4491235060126317063, guid: 03c9bb2875b3ed441a89fc88ed0cd136, type: 3}
+  m_PrefabInstance: {fileID: 1281956617}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1783750636
 GameObject:
   m_ObjectHideFlags: 0
@@ -2730,6 +2735,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &4712750110370057234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4712750110370057232}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d622e518c163ca144a7b8340875b235d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _neckBone: {fileID: 1281956618}
+  _searchRadius: 10
 --- !u!1 &5321837736798474047
 GameObject:
   m_ObjectHideFlags: 0
