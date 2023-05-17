@@ -14,7 +14,9 @@ public class HeadTurn : MonoBehaviour
         GameObject player = FindPlayerInRadius(_searchRadius);
         if (player != null)
         {
-            _neckBone.LookAt(player.transform); // Might need Quaternion.Slerp
+            //_neckBone.LookAt(player.transform); // Might need Quaternion.Slerp
+            //_neckBone.rotation = Quaternion.RotateTowards(_neckBone.transform.rotation, player.transform.rotation, Time.deltaTime * 100);
+            _neckBone.rotation = Quaternion.Slerp(_neckBone.rotation, Quaternion.LookRotation(player.transform.position - _neckBone.position), Time.deltaTime * 3);
         }
     }
 
