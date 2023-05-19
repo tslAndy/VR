@@ -17,11 +17,20 @@ public class Sprint : MonoBehaviour
     [SerializeField]
     InputActionProperty m_LeftHandAction;
 
+    private bool _sprintPressed;
+
+    private float _initialSpeed;
+
+    private void Start()
+    {
+        _initialSpeed = m_continuousMoveProvider.moveSpeed;
+
+        m_LeftHandAction.action.performed += (InputAction.CallbackContext _) => { _sprintPressed = true; };
+        m_LeftHandAction.action.canceled += (InputAction.CallbackContext _) => { _sprintPressed = false; };
+    }
+
     private void Update()
     {
-        if (m_LeftHandAction.action.ReadValue<bool>())
-        {
-            m_continuousMoveProvider.moveSpeed = _sprintSpeed;
-        }
+        m_continuousMoveProvider.moveSpeed = _sprintPressed ? _sprintSpeed : _initialSpeed;
     }
 }
