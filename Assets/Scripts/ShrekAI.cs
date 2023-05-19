@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 public class ShrekAI : MonoBehaviour
 {
-   GameObject _player;
+    GameObject _player;
     NavMeshAgent agent;
     // Start is called before the first frame update
     void Start()
