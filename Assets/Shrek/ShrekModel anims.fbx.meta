@@ -1,0 +1,1002 @@
+fileFormatVersion: 2
+guid: 03c9bb2875b3ed441a89fc88ed0cd136
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -2081149756021278733
+    second: m_shrek_idle6
+  - first:
+      74: -7777131997072828824
+    second: m_Shrek_int_footTap1
+  - first:
+      74: 6643768774960516236
+    second: m_Shrek_wthr_hot_Loop
+  - first:
+      74: -4605103237353937524
+    second: m_Shrek_runLoop
+  - first:
+      74: 3574442218280543926
+    second: m_Shrek_int_noseHorn_Full
+  - first:
+      74: -1577392248649940037
+    second: m_Shrek_tired_in
+  - first:
+      74: 7490248020101707292
+    second: m_Shrek_scratch_Out1
+  - first:
+      74: -2670835203244924837
+    second: m_Shrek_scratch_Out2
+  - first:
+      74: -1104706994831890091
+    second: m_Shrek_wthr_clearNightIn
+  - first:
+      74: -989470241459074928
+    second: m_Shrek_idle7_AW_Looped
+  - first:
+      74: 6508727835771334714
+    second: m_Shrek_scratch_In
+  - first:
+      74: -2365526128370674576
+    second: m_Shrek_tired_out
+  - first:
+      74: 947683867746032707
+    second: m_Shrek_idle3_Loop
+  - first:
+      74: 4267264412094449293
+    second: m_Shrek_wthr_clearNightLoop
+  - first:
+      74: 6505250483188287913
+    second: m_Shrek_tickleLoop
+  - first:
+      74: 8118516244809796951
+    second: m_Shrek_idle2_Loop
+  - first:
+      74: 1834351105246624894
+    second: m_Shrek_food_hungry_out
+  - first:
+      74: 9017884835688402358
+    second: m_Shrek_wthr_hot_In
+  - first:
+      74: -8262071558818055805
+    second: m_Shrek_food_hungry_loop
+  - first:
+      74: -5582080647950031157
+    second: m_Shrek_idle2_In
+  - first:
+      74: -1630290952304423575
+    second: m_Shrek_mistake
+  - first:
+      74: -3116987912695569130
+    second: m_Shrek_Fullstrech
+  - first:
+      74: -8999455718255662143
+    second: m_Shrek_tired_loop
+  - first:
+      74: -517518412458486221
+    second: m_Shrek_food_openMouth
+  - first:
+      74: -856019250363436288
+    second: m_Shrek_int_RightFootTap
+  - first:
+      74: -7279331103332911770
+    second: m_Shrek_idle4_GrumpyLoop
+  - first:
+      74: 2340645975224316577
+    second: m_Shrek_tickleOut
+  - first:
+      74: -7562002047156678312
+    second: m_Shrek_int_gas3
+  - first:
+      74: -5886752920494138087
+    second: m_Shrek_wthr_clearNightOut
+  - first:
+      74: -2062839683017405606
+    second: m_Shrek_idle3_Out
+  - first:
+      74: -2707614974660011533
+    second: m_Shrek_wakeAlarm1
+  - first:
+      74: -312516722334646676
+    second: m_Shrek_int_gas1
+  - first:
+      74: -8715489509302635680
+    second: m_Shrek_food_eat
+  - first:
+      74: -4595407386872694203
+    second: m_Shrek_int_ears
+  - first:
+      74: 4126523109339969620
+    second: m_Shrek_wthr_frost
+  - first:
+      74: -2384508467589760043
+    second: m_Shrek_wthr_snow
+  - first:
+      74: -7417008704987073711
+    second: m_Shrek_idle5
+  - first:
+      74: 5472384682022780376
+    second: m_Shrek_scratch_Loop
+  - first:
+      74: 192909041847949451
+    second: m_Shrek_pokedLeftShoulder
+  - first:
+      74: 1990825537442458778
+    second: m_Shrek_int_Lhand
+  - first:
+      74: -1774055501163287850
+    second: m_shrek_sleeping
+  - first:
+      74: 8863244637979065381
+    second: m_Shrek_int_shldr
+  - first:
+      74: -6052985456401983412
+    second: m_Shrek_idle10_AW
+  - first:
+      74: -3473315736091010649
+    second: m_Shrek_getAngry
+  - first:
+      74: -4869070468636838935
+    second: m_Shrek_food_hungry_react1
+  - first:
+      74: -7673628434669498895
+    second: m_shrek_breathe9
+  - first:
+      74: 8364251269051792902
+    second: m_Shrek_idle4_AW
+  - first:
+      74: 6620766065302691374
+    second: m_Shrek_breathe7
+  - first:
+      74: -6568750781733657488
+    second: m_shrek_idle1
+  - first:
+      74: 67316802218430444
+    second: m_Shrek_wthr_rain_AW
+  - first:
+      74: 757041219548704190
+    second: Running
+  - first:
+      74: 680899127816485011
+    second: m_Shrek_wakeup
+  - first:
+      74: -870295376218645440
+    second: m_Shrek_idle8_AW
+  - first:
+      74: 177528738962855292
+    second: m_Shrek_breathe1
+  - first:
+      74: -1117922139238500446
+    second: m_Shrek_int_react1
+  - first:
+      74: 6912598212975304219
+    second: m_Shrek_int_gas6
+  - first:
+      74: -846039684935184798
+    second: m_shrek_roar3
+  - first:
+      74: 7124775539753209200
+    second: m_Shrek_breathe8
+  - first:
+      74: -8833902509504036134
+    second: m_Shrek_idle3
+  - first:
+      74: 4392560731238368115
+    second: m_Shrek_poked1
+  - first:
+      74: 2948969752744709206
+    second: m_Shrek_int_gas2
+  - first:
+      74: -7444029499955511632
+    second: m_Shrek_idle9_AW
+  - first:
+      74: -4699231904026298197
+    second: m_shrek_pokedWarning2
+  - first:
+      74: 5042444554300656322
+    second: m_Shrek_int_footTap2
+  - first:
+      74: 1020823571333003908
+    second: m_Shrek_roar1
+  - first:
+      74: 1965813583554939059
+    second: m_Shrek_breathe5
+  - first:
+      74: -2736018360697593035
+    second: m_Shrek_int_belly
+  - first:
+      74: -8569331198987265962
+    second: m_Shrek_roar2Brth1
+  - first:
+      74: 4657115888222672248
+    second: m_Shrek_pokedWarning1
+  - first:
+      74: 4336802476117770380
+    second: m_Shrek_tired_react1
+  - first:
+      74: -7888606366488992039
+    second: m_Shrek_idle7_AW
+  - first:
+      74: -9021032487865147386
+    second: m_Shrek_pokedRightShoulder
+  - first:
+      74: -8480819705031416008
+    second: m_Shrek_int_react3
+  - first:
+      74: -88057091034296035
+    second: m_Shrek_wthr_wind
+  - first:
+      74: 59701272629186344
+    second: m_Shrek_breathe4
+  - first:
+      74: 3758658270615358601
+    second: m_Shrek_int_head2
+  - first:
+      74: -5858789772465385981
+    second: m_Shrek_breathe3
+  - first:
+      74: 9131104208822875307
+    second: m_Shrek_int_gas8
+  - first:
+      74: 4346534006614250048
+    second: m_Shrek_int_gas4
+  - first:
+      74: 1710712843743136074
+    second: m_Shrek_breathe6
+  - first:
+      74: 2310314336615546359
+    second: m_Shrek_int_Rknee
+  - first:
+      74: -1715065967034792499
+    second: m_Shrek_int_head1
+  - first:
+      74: -7053324117135850117
+    second: m_Shrek_roar2Brth2
+  - first:
+      74: -5446661159571729453
+    second: m_Shrek_food_reject
+  - first:
+      74: -2688807284486939152
+    second: m_Shrek_wthr_hot_Out
+  - first:
+      74: 6220419480965565992
+    second: m_shrek_breathe10
+  - first:
+      74: 5194060247230091939
+    second: m_Shrek_asleep_poke2
+  - first:
+      74: 8352967859884624192
+    second: m_Shrek_idle2
+  - first:
+      74: -2710520386999131371
+    second: m_Shrek_int_Lknee
+  - first:
+      74: -205332325640645022
+    second: m_Shrek_poked3
+  - first:
+      74: -4192552761623872429
+    second: m_Shrek_int_react4
+  - first:
+      74: -2020163951190658103
+    second: m_Shrek_int_gas5
+  - first:
+      74: -7134523026004880546
+    second: m_Shrek_int_gas7
+  - first:
+      74: 2908170437228283755
+    second: m_Shrek_int_Rhand
+  - first:
+      74: -4854871028718539006
+    second: m_Shrek_breathe2
+  - first:
+      74: 8615046624825465259
+    second: m_shrek_fall_asleep
+  - first:
+      74: 4523467152245971308
+    second: m_Shrek_roar4
+  - first:
+      74: -7082577223143819065
+    second: m_Shrek_roarBreathe
+  - first:
+      74: 633977441808183499
+    second: m_Shrek_asleep_poke1
+  - first:
+      74: -4729500704345639187
+    second: m_shrek_roar2
+  - first:
+      74: 5079217333496095623
+    second: m_Shrek_food_hungry_in
+  - first:
+      74: -1165777536132960644
+    second: m_Shrek_tickleNoteReact
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Running
+      takeName: m_Shrek_tickleIn
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 569
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: ShrekModel anims(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ShrekModel
+      parentName: ShrekModel anims(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.1232336e-17, y: 1, z: 6.1232336e-17, w: -0.00000004371139}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: shrek:o_Shrek
+      parentName: ShrekModel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CFXM3_MagicAura_A (Green)
+      parentName: ShrekModel
+      position: {x: -0, y: 2, z: 0}
+      rotation: {x: -6.1232336e-17, y: 1, z: -6.1232336e-17, w: 0.00000004371139}
+      scale: {x: 100, y: 100, z: 100}
+    - name: CFXM3 Spikes
+      parentName: CFXM3_MagicAura_A (Green)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CFXM3 Stars
+      parentName: CFXM3_MagicAura_A (Green)
+      position: {x: -0, y: 0.1, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:Motion
+      parentName: ShrekModel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.617445e-24, y: -0, z: -6.617445e-24, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_c_torso_origin
+      parentName: shrek:Motion
+      position: {x: -2.295596, y: 94.657104, z: 2.3944867}
+      rotation: {x: 0.00023723507, y: -0.99761933, z: 0.0689609, w: -0.000016503769}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Fart Particle System
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 5.7, y: -20.5, z: -5.3}
+      rotation: {x: 0.8231239, y: -0.3359862, z: 0.38448223, w: 0.248503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_hip
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 20.426903, y: 0.3382208, z: 2.370499}
+      rotation: {x: 0.7550589, y: -0.65217054, z: 0.043978203, w: 0.051240794}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jntSCALE_r_leg_hip
+      parentName: shrek:jnt_r_leg_hip
+      position: {x: -0, y: -7.1054274e-15, z: 0}
+      rotation: {x: 0.000000015017575, y: -1.7462297e-10, z: -0.0000000035377066, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_knee
+      parentName: shrek:jnt_r_leg_hip
+      position: {x: 46.09448, y: 0.00019994414, z: 0.00037260493}
+      rotation: {x: -0.0013276269, y: -0.0796711, z: 0.043222733, w: 0.99588287}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.9999998}
+    - name: shrek:jntSCALE_r_leg_knee
+      parentName: shrek:jnt_r_leg_knee
+      position: {x: 7.1054274e-15, y: 0, z: 0}
+      rotation: {x: 0.000000014901161, y: -0.000000014901161, z: 0.0000000114087015, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_ankle
+      parentName: shrek:jnt_r_leg_knee
+      position: {x: 38.53923, y: 0.000028811723, z: -0.00007133822}
+      rotation: {x: -0.054481577, y: 0.083118685, z: 0.0345759, w: 0.9944484}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_r_leg_ball
+      parentName: shrek:jnt_r_leg_ankle
+      position: {x: 9.132335, y: -0.016587757, z: -20.570963}
+      rotation: {x: -0.012937838, y: -0.7022423, z: -0.010938201, w: -0.7117365}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999997}
+    - name: shrek:jnt_c_leg_skirt
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 3.5527137e-15, y: 2.5579538e-13, z: -1.7763568e-14}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_leg_skirt
+      parentName: shrek:jnt_c_leg_skirt
+      position: {x: 20.426903, y: 0.33911222, z: 2.3703752}
+      rotation: {x: 0.7513514, y: -0.6482165, z: 0.086713746, w: 0.088131644}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jnt_l_leg_skirt
+      parentName: shrek:jnt_c_leg_skirt
+      position: {x: -20.426865, y: 0.3198429, z: 2.3730497}
+      rotation: {x: -0.08813007, y: 0.08672138, z: 0.6485761, w: 0.75104034}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999976}
+    - name: shrek:jnt_l_leg_hip
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: -24.266323, y: 0.31712592, z: 2.3734272}
+      rotation: {x: -0.051218625, y: 0.044003233, z: 0.6525291, w: 0.75474906}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+    - name: shrek:jntSCALE_l_leg_hip
+      parentName: shrek:jnt_l_leg_hip
+      position: {x: -8.526513e-14, y: -2.842171e-14, z: 0}
+      rotation: {x: 2.3283064e-10, y: 5.820766e-11, z: 0.00000008940697, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: shrek:jnt_l_leg_knee
+      parentName: shrek:jnt_l_leg_hip
+      position: {x: -46.094646, y: -0.00011672448, z: -0.00021130557}
+      rotation: {x: -0.0013277271, y: -0.07967044, z: 0.043223772, w: 0.9958828}
+      scale: {x: 0.99999976, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jntSCALE_l_leg_knee
+      parentName: shrek:jnt_l_leg_knee
+      position: {x: -0.00000013424125, y: -0.0000016151444, z: 0.000000040030624}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: shrek:jnt_l_leg_ankle
+      parentName: shrek:jnt_l_leg_knee
+      position: {x: -38.538994, y: 0.0000006649583, z: -0.00000027229873}
+      rotation: {x: -0.054481484, y: 0.08311835, z: 0.034575403, w: 0.9944484}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_l_leg_ball
+      parentName: shrek:jnt_l_leg_ankle
+      position: {x: -9.132354, y: 0.016569115, z: 20.570976}
+      rotation: {x: 0.012937844, y: 0.7022423, z: 0.010938227, w: 0.71173644}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+    - name: shrek:jnt_c_torso_spine_1
+      parentName: shrek:jnt_c_torso_origin
+      position: {x: 0.0049810368, y: 7.007068, z: 0.04637942}
+      rotation: {x: -0.00022017957, y: 0.00005400466, z: 0.00038923154, w: 0.9999999}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: shrek:jntSCALE_c_torso_spine_1
+      parentName: shrek:jnt_c_torso_spine_1
+      position: {x: -4.1633363e-17, y: -1.4210855e-14, z: 7.1054274e-15}
+      rotation: {x: 0.000000014901161, y: -4.5474735e-12, z: -2.910383e-11, w: 1}
+      scale: {x: 1.005275, y: 0.9873731, z: 1.005275}
+    - name: BellyNode
+      parentName: shrek:jntSCALE_c_torso_spine_1
+      position: {x: -3.9174, y: 7.5308, z: 0.0000018477}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_c_torso_spine_2
+      parentName: shrek:jnt_c_torso_spine_1
+      position: {x: 0.039106764, y: 14.43027, z: 0.008079212}
+      rotation: {x: -0.038129017, y: -0.0000148120735, z: -0.00014814721, w: 0.9992729}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jntSCALE_c_torso_spine_2
+      parentName: shrek:jnt_c_torso_spine_2
+      position: {x: 4.0165844e-12, y: 0, z: 0}
+      rotation: {x: -4.3368082e-19, y: 4.263256e-14, z: 1.8189892e-12, w: 1}
+      scale: {x: 1.0021017, y: 0.98737305, z: 1.0021017}
+    - name: shrek:jnt_c_torso_spine_3
+      parentName: shrek:jnt_c_torso_spine_2
+      position: {x: 0.00020139072, y: 19.230864, z: -0.010138826}
+      rotation: {x: 0.015015375, y: -0.000006891443, z: -0.00009021168, w: 0.9998873}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: shrek:jnt_r_arm_clavicle
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: -8.126068, y: 27.508406, z: 0.63452625}
+      rotation: {x: -0.9873313, y: -0.05331373, z: 0.1449181, w: -0.036515106}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999994}
+    - name: shrek:jnt_r_arm_clavicleCoat
+      parentName: shrek:jnt_r_arm_clavicle
+      position: {x: 1.4210855e-14, y: -1.1368684e-13, z: 7.1054274e-15}
+      rotation: {x: -0, y: -0, z: -2.3283064e-10, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: shrek:jnt_r_arm_shoulder
+      parentName: shrek:jnt_r_arm_clavicle
+      position: {x: 49.13876, y: -0.9686169, z: -0.57159925}
+      rotation: {x: 0.033872068, y: 0.14321232, z: 0.07235431, w: 0.9864623}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999994}
+    - name: shrek:jntSCALE_r_arm_shoulder
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 1.4210855e-14, y: 2.842171e-14, z: -7.1054274e-15}
+      rotation: {x: -0.000051295377, y: 0.000487376, z: 0.00021790699, w: 0.99999994}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: shrek:jnt_r_arm_shoulderRoll
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 1.1368684e-13, y: 2.842171e-14, z: 0}
+      rotation: {x: -0, y: -0, z: 0.000000011874361, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_r_arm_elbow
+      parentName: shrek:jnt_r_arm_shoulder
+      position: {x: 45.696613, y: -0.000086814136, z: -0.000017783846}
+      rotation: {x: -0.01778358, y: -0.03136253, z: 0.00942389, w: -0.9993055}
+      scale: {x: 0.99999976, y: 0.99999946, z: 1.0000002}
+    - name: shrek:jntSCALE_r_arm_elbow
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 0.020315364, y: 0.01693783, z: -0.040851388}
+      rotation: {x: -0.00008769333, y: -0.0007225219, z: -0.00007778965, w: 0.99999976}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: shrek:jnt_r_arm_roll
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 17.000128, y: 0.000044895198, z: 0.0000319092}
+      rotation: {x: -0, y: -0, z: 0.0000000027939677, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: shrek:jnt_r_arm_sleeve
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 1.4210855e-14, y: -7.81597e-14, z: 2.4424907e-15}
+      rotation: {x: -0.0014294535, y: -0.000000029802322, z: 0.000000024214387, w: 0.999999}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: shrek:jnt_r_arm_wrist
+      parentName: shrek:jnt_r_arm_elbow
+      position: {x: 34.074646, y: -0.0002390983, z: -0.00012596598}
+      rotation: {x: 0.008137405, y: -0.03475913, z: 0.074161135, w: 0.9966071}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1}
+    - name: shrek:jnt_r_attach_prop
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 14.244355, y: 1.4439415, z: -0.20790797}
+      rotation: {x: -0.032624356, y: -0.00000019930303, z: 0.000003399793, w: 0.99946773}
+      scale: {x: 0.99999976, y: 0.99999964, z: 1}
+    - name: shrek:jnt_r_hand_ring_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 22.963541, y: -4.199113, z: 7.475903}
+      rotation: {x: -0.15618165, y: -0.6977218, z: 0.07915874, w: 0.69464064}
+      scale: {x: 1.0000008, y: 0.9999997, z: 1.0000006}
+    - name: shrek:jnt_r_hand_ring_2
+      parentName: shrek:jnt_r_hand_ring_1
+      position: {x: 0.000014221323, y: 0.000019100311, z: -9.583947}
+      rotation: {x: 0.035222758, y: 0.00000336766, z: -0.000001333653, w: 0.9993795}
+      scale: {x: 0.9999994, y: 0.99999964, z: 0.99999964}
+    - name: shrek:jnt_r_hand_ring_3
+      parentName: shrek:jnt_r_hand_ring_2
+      position: {x: 0.000057838664, y: -0.044255454, z: -5.3583946}
+      rotation: {x: 0.12651433, y: 0.000000059604645, z: 0.000000059604645, w: 0.9919648}
+      scale: {x: 1.000001, y: 0.9999999, z: 1.0000008}
+    - name: shrek:jnt_r_hand_mid_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 24.638369, y: -5.938371, z: -1.1994623}
+      rotation: {x: 0.042552155, y: 0.7052056, z: 0.018501272, w: -0.70748305}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000006}
+    - name: shrek:jnt_r_hand_mid_2
+      parentName: shrek:jnt_r_hand_mid_1
+      position: {x: -0.00001755299, y: -0.000063765394, z: -9.889521}
+      rotation: {x: -0.024823323, y: -0.0000021159633, z: -0.00000006519253, w: -0.99969184}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999999}
+    - name: shrek:jnt_r_hand_mid_3
+      parentName: shrek:jnt_r_hand_mid_2
+      position: {x: -0.0000005007035, y: 0.06293285, z: -5.9104667}
+      rotation: {x: 0.0753685, y: -0.000000029802326, z: -0.000000029802326, w: 0.9971558}
+      scale: {x: 1.0000006, y: 0.99999976, z: 1.0000006}
+    - name: shrek:jnt_r_hand_pinky_4
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 8.194314, y: -2.6579251, z: 7.45913}
+      rotation: {x: -0.27248415, y: -0.582879, z: 0.12418483, w: 0.75536925}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: shrek:jnt_r_hand_pinky_1
+      parentName: shrek:jnt_r_hand_pinky_4
+      position: {x: 3.4117544, y: -0.5424701, z: -12.792467}
+      rotation: {x: 0.004595127, y: -0.107404575, z: 0.04139724, w: 0.99334264}
+      scale: {x: 1.0000002, y: 0.9999996, z: 1.0000002}
+    - name: shrek:jnt_r_hand_pinky_2
+      parentName: shrek:jnt_r_hand_pinky_1
+      position: {x: 0.000070984635, y: -0.00004924083, z: -8.4092865}
+      rotation: {x: 0.035342798, y: -0.000015385442, z: 0.0000018977435, w: 0.9993753}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999998}
+    - name: shrek:jnt_r_hand_pinky_3
+      parentName: shrek:jnt_r_hand_pinky_2
+      position: {x: -0.00010896101, y: -0.037452634, z: -4.4100304}
+      rotation: {x: 0.13104528, y: -0, z: -0.000000059604645, w: 0.9913764}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: shrek:jnt_r_hand_index_4
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 8.90346, y: -3.205384, z: -5.031629}
+      rotation: {x: 0.0040576747, y: 0.71578383, z: 0.123385675, w: -0.68732315}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.99999976}
+    - name: shrek:jnt_r_hand_index_1
+      parentName: shrek:jnt_r_hand_index_4
+      position: {x: -3.2806814, y: -0.000039948663, z: -15.593971}
+      rotation: {x: 0.019993685, y: 0.07942923, z: -0.07853345, w: 0.993541}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: shrek:jnt_r_hand_index_2
+      parentName: shrek:jnt_r_hand_index_1
+      position: {x: 0.0000021001765, y: 0.0000004256085, z: -8.894701}
+      rotation: {x: 0.02857047, y: -0.0000012218945, z: 0.000000114319775, w: 0.99959177}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: shrek:jnt_r_hand_index_3
+      parentName: shrek:jnt_r_hand_index_2
+      position: {x: -0.000013024107, y: 0.000016522461, z: -5.2101526}
+      rotation: {x: 0.02172865, y: -0, z: 0.00000011920929, w: 0.99976397}
+      scale: {x: 1.0000008, y: 1, z: 1.0000007}
+    - name: shrek:jnt_r_hand_thumb_1
+      parentName: shrek:jnt_r_arm_wrist
+      position: {x: 7.752926, y: 1.3889612, z: -9.388067}
+      rotation: {x: -0.30026186, y: 0.3376045, z: 0.7145539, w: -0.5341151}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.9999999}
+    - name: shrek:jnt_r_hand_thumb_2
+      parentName: shrek:jnt_r_hand_thumb_1
+      position: {x: -0.03393052, y: -2.2627082, z: -13.484036}
+      rotation: {x: -0.052687727, y: 0.0010043078, z: 0.012704892, w: 0.99852973}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.9999998}
+    - name: shrek:jnt_r_hand_thumb_3
+      parentName: shrek:jnt_r_hand_thumb_2
+      position: {x: -0.000048357953, y: -0.000043476775, z: -4.8380203}
+      rotation: {x: 0.15372542, y: 0.0029286146, z: -0.018821001, w: 0.98793006}
+      scale: {x: 0.99999976, y: 0.9999996, z: 0.99999994}
+    - name: shrek:jnt_l_arm_clavicle
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: 8.116859, y: 27.511583, z: 0.63424444}
+      rotation: {x: -0.036491618, y: -0.14490907, z: -0.05314759, w: 0.9873424}
+      scale: {x: 1.0000006, y: 0.99999964, z: 1.0000006}
+    - name: shrek:jnt_l_arm_clavicleCoat
+      parentName: shrek:jnt_l_arm_clavicle
+      position: {x: -8.881784e-15, y: -2.842171e-14, z: 8.881784e-15}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_l_arm_shoulder
+      parentName: shrek:jnt_l_arm_clavicle
+      position: {x: -49.138702, y: 0.9685775, z: 0.5716147}
+      rotation: {x: 0.033871908, y: 0.14321254, z: 0.07235351, w: 0.98646224}
+      scale: {x: 0.9999998, y: 0.9999994, z: 0.9999991}
+    - name: shrek:jntSCALE_l_arm_shoulder
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -4.2632564e-14, y: -4.2632564e-14, z: 2.1316282e-14}
+      rotation: {x: -0.000051282346, y: 0.00048737973, z: 0.00021797419, w: 0.9999999}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: shrek:jnt_l_arm_shoulderRoll
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -2.842171e-14, y: -1.4210855e-14, z: 2.1316282e-14}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: shrek:jnt_l_arm_elbow
+      parentName: shrek:jnt_l_arm_shoulder
+      position: {x: -45.696926, y: -1.4210855e-14, z: -1.4210855e-14}
+      rotation: {x: 0.017784523, y: 0.031364456, z: -0.009425943, w: 0.9993054}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: shrek:jntSCALE_l_arm_elbow
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -0.020567095, y: -0.017125823, z: 0.04079631}
+      rotation: {x: -0.00008769333, y: -0.0007224977, z: -0.00007778406, w: 0.99999976}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: shrek:jnt_l_arm_roll
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -17, y: -8.526513e-14, z: 3.5527137e-15}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: shrek:jnt_l_arm_sleeve
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -4.2632564e-14, y: -1.4210855e-14, z: -1.5987212e-14}
+      rotation: {x: -0.0014294684, y: -0.000000014901161, z: 0.000000029802322, w: 0.999999}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.9999994}
+    - name: shrek:jnt_l_arm_wrist
+      parentName: shrek:jnt_l_arm_elbow
+      position: {x: -34.075073, y: -1.2789769e-13, z: 1.7763568e-15}
+      rotation: {x: 0.008137409, y: -0.034759127, z: 0.07416105, w: 0.9966071}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000005}
+    - name: shrek:jnt_l_hand_ring_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -22.963171, y: 4.1991954, z: -7.475841}
+      rotation: {x: -0.15618366, y: -0.69771945, z: 0.07915626, w: 0.69464266}
+      scale: {x: 0.9999992, y: 0.9999998, z: 0.9999998}
+    - name: shrek:jnt_l_hand_ring_2
+      parentName: shrek:jnt_l_hand_ring_1
+      position: {x: -0, y: 9.414691e-14, z: 9.58397}
+      rotation: {x: 0.035218913, y: 0.000000029802319, z: 0.000000104308114, w: 0.9993797}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: shrek:jnt_l_hand_ring_3
+      parentName: shrek:jnt_l_hand_ring_2
+      position: {x: -1.4210855e-14, y: 0.044247855, z: 5.3583546}
+      rotation: {x: 0.12651429, y: -0, z: -0.000000014901161, w: 0.9919648}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000005}
+    - name: shrek:jnt_l_hand_mid_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -24.63795, y: 5.938501, z: 1.199571}
+      rotation: {x: -0.04255707, y: -0.70520335, z: -0.018506283, w: 0.7074848}
+      scale: {x: 0.9999995, y: 0.9999999, z: 0.99999964}
+    - name: shrek:jnt_l_hand_mid_2
+      parentName: shrek:jnt_l_hand_mid_1
+      position: {x: -2.842171e-14, y: -5.684342e-14, z: 9.889592}
+      rotation: {x: -0.024829535, y: -0.00000047683676, z: -0.00000008009368, w: -0.9996917}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000001}
+    - name: shrek:jnt_l_hand_mid_3
+      parentName: shrek:jnt_l_hand_mid_2
+      position: {x: -0, y: -0.06288785, z: 5.9103627}
+      rotation: {x: 0.075368494, y: -0, z: -0, w: 0.9971558}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999997}
+    - name: shrek:jnt_l_hand_pinky_4
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -8.193954, y: 2.6580532, z: -7.459021}
+      rotation: {x: -0.2724842, y: -0.582875, z: 0.12418176, w: 0.75537276}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1.0000002}
+    - name: shrek:jnt_l_hand_pinky_1
+      parentName: shrek:jnt_l_hand_pinky_4
+      position: {x: -3.4117968, y: 0.5425109, z: 12.792448}
+      rotation: {x: 0.0045910147, y: -0.10741164, z: 0.041397005, w: 0.9933418}
+      scale: {x: 1.0000002, y: 1.0000006, z: 0.99999994}
+    - name: shrek:jnt_l_hand_pinky_2
+      parentName: shrek:jnt_l_hand_pinky_1
+      position: {x: 5.684342e-14, y: 0, z: 8.4093275}
+      rotation: {x: 0.0353437, y: 0.00000085681654, z: 0.00000020227158, w: 0.9993753}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_l_hand_pinky_3
+      parentName: shrek:jnt_l_hand_pinky_2
+      position: {x: -1.4210855e-14, y: 0.037449177, z: 4.410003}
+      rotation: {x: 0.13104522, y: -0.000000052154064, z: -0.000000014901161, w: 0.99137646}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1}
+    - name: shrek:jnt_l_hand_index_4
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -8.903086, y: 3.205486, z: 5.0317535}
+      rotation: {x: -0.0040597543, y: -0.71578246, z: -0.1233872, w: 0.6873242}
+      scale: {x: 0.9999995, y: 0.9999997, z: 0.99999964}
+    - name: shrek:jnt_l_hand_index_1
+      parentName: shrek:jnt_l_hand_index_4
+      position: {x: 3.2806573, y: 4.2632564e-14, z: 15.593966}
+      rotation: {x: 0.019993825, y: 0.07942841, z: -0.07853339, w: 0.9935411}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999994}
+    - name: shrek:jnt_l_hand_index_2
+      parentName: shrek:jnt_l_hand_index_1
+      position: {x: -4.2632564e-14, y: 9.947598e-14, z: 8.894703}
+      rotation: {x: -0.028572882, y: 0.00000058114506, z: 0.000000067520865, w: -0.99959177}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    - name: shrek:jnt_l_hand_index_3
+      parentName: shrek:jnt_l_hand_index_2
+      position: {x: 3.5527137e-15, y: -1.2112533e-13, z: 5.210099}
+      rotation: {x: 0.021728724, y: -0.000000029802322, z: 0.000000059604645, w: 0.99976397}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: shrek:jnt_l_hand_thumb_1
+      parentName: shrek:jnt_l_arm_wrist
+      position: {x: -7.752571, y: -1.3888597, z: 9.388151}
+      rotation: {x: 0.3002579, y: -0.33760688, z: -0.7145543, w: 0.5341152}
+      scale: {x: 1.0000005, y: 0.99999934, z: 1.0000005}
+    - name: shrek:jnt_l_hand_thumb_2
+      parentName: shrek:jnt_l_hand_thumb_1
+      position: {x: 0.033940304, y: 2.2627625, z: 13.483997}
+      rotation: {x: -0.052696887, y: 0.0010082272, z: 0.012703505, w: 0.9985293}
+      scale: {x: 0.99999946, y: 0.99999994, z: 0.99999917}
+    - name: shrek:jnt_l_hand_thumb_3
+      parentName: shrek:jnt_l_hand_thumb_2
+      position: {x: 2.842171e-14, y: -7.1054274e-15, z: 4.8380494}
+      rotation: {x: -0.15372549, y: -0.0029286444, z: 0.018821016, w: -0.98793}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: shrek:jnt_c_torso_neck
+      parentName: shrek:jnt_c_torso_spine_3
+      position: {x: -1.7763568e-15, y: 37.046093, z: -3.5527137e-15}
+      rotation: {x: 0.16069117, y: 0.000036679543, z: 0.00014202582, w: 0.98700476}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1.0000002}
+    - name: shrek:jnt_c_torso_head
+      parentName: shrek:jnt_c_torso_neck
+      position: {x: 1.7763568e-15, y: 28.795725, z: 4.973799e-14}
+      rotation: {x: -0.20558758, y: -0.0000128532565, z: -0.000061143546, w: 0.9786387}
+      scale: {x: 0.9999992, y: 1, z: 0.99999934}
+    - name: NoseNode
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -5, y: 2.7658, z: 0.0000017435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_r_head_mouthCorner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 13.531402, y: -10.487059, z: 17.177485}
+      rotation: {x: -0.9656233, y: -0.008792848, z: 0.25382003, w: 0.055405177}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_r_head_mouth
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 4.291238, y: -16.881727, z: 28.444872}
+      rotation: {x: -0.95805717, y: 0.01091118, z: 0.2551892, w: 0.12994577}
+      scale: {x: 1.0000012, y: 1.0000011, z: 1.0000004}
+    - name: shrek:jnt_l_head_mouth
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -5.0096836, y: -16.991034, z: 28.507862}
+      rotation: {x: 0.12994576, y: -0.25518915, z: 0.010911185, w: 0.9580572}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000007}
+    - name: Particle System
+      parentName: shrek:jnt_l_head_mouth
+      position: {x: 6.36, y: -3.0003347, z: -0.6001963}
+      rotation: {x: -0.082799755, y: 0.18630864, z: -0.25773096, w: 0.9444618}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shrek:jnt_l_head_mouthCorner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -13.862556, y: -7.170427, z: 15.058636}
+      rotation: {x: 0.055405166, y: -0.25381997, z: -0.008792838, w: 0.9656233}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000004}
+    - name: shrek:jnt_c_head_tongue
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.6417435, y: -17.4733, z: 5.1615686}
+      rotation: {x: -0.0357841, y: -3.5527137e-15, z: -2.220446e-16, w: 0.99935955}
+      scale: {x: 1.0000012, y: 1, z: 1.0000011}
+    - name: shrek:jnt_r_head_ear
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 19.170307, y: 7.3620157, z: 5.388902}
+      rotation: {x: -0.95692176, y: -0.26460084, z: -0.11926981, w: 0.007865809}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: shrek:jnt_r_head_browOuter
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 13.545479, y: 7.469966, z: 19.936838}
+      rotation: {x: -0.9706222, y: 0.013601702, z: 0.23486704, w: 0.050448745}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000001}
+    - name: shrek:jnt_r_head_browInner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 5.875084, y: 8.500056, z: 23.684492}
+      rotation: {x: -0.99433815, y: -0.023231532, z: 0.09888914, w: -0.031190308}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000006}
+    - name: shrek:jnt_l_head_mouthCrease
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -17.464903, y: -10.245821, z: 16.954752}
+      rotation: {x: 0.09109135, y: 0.010356406, z: -0.024958227, w: 0.9954759}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: shrek:jnt_r_head_mouthCrease
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 16.411137, y: -14.74692, z: 18.237885}
+      rotation: {x: -0.9954759, y: -0.024958236, z: -0.010356357, w: 0.09109136}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000001}
+    - name: shrek:jnt_l_head_lidLower
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -8.123681, y: 2.5541992, z: 16.999842}
+      rotation: {x: 0.1334786, y: -0.09948531, z: -0.010342006, w: 0.98599154}
+      scale: {x: 1.0000011, y: 1, z: 1.000001}
+    - name: shrek:jnt_l_head_lidUpper
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -8.123681, y: 2.5541992, z: 16.999842}
+      rotation: {x: -0.13022482, y: -0.09546576, z: -0.015125343, w: 0.9867619}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: shrek:jnt_r_head_lidUpper
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 8.113494, y: 2.5541992, z: 16.999842}
+      rotation: {x: -0.9867619, y: -0.015125355, z: 0.09546578, w: -0.13022482}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1}
+    - name: shrek:jnt_r_head_lidLower
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 8.113494, y: 2.5541992, z: 16.999842}
+      rotation: {x: -0.98599154, y: -0.0103420075, z: 0.09948532, w: 0.13347858}
+      scale: {x: 1, y: 0.9999994, z: 1.0000004}
+    - name: shrek:jnt_l_head_ear
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -19.170292, y: 7.362478, z: 5.388899}
+      rotation: {x: 0.007865806, y: 0.1192698, z: -0.26460084, w: 0.95692176}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: shrek:jnt_l_head_mouthSnarl
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -4.420951, y: -16.825348, z: 27.219501}
+      rotation: {x: 0.0559159, y: -0.17910868, z: -0.0045230393, w: 0.98222864}
+      scale: {x: 1.0000008, y: 1, z: 1.0000011}
+    - name: shrek:jnt_r_head_mouthSnarl
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 4.428918, y: -16.430773, z: 27.275291}
+      rotation: {x: -0.98222864, y: -0.004523044, z: 0.17910871, w: 0.0559159}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.9999999}
+    - name: shrek:jnt_l_head_browInner
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -5.5748816, y: 10.984683, z: 22.826393}
+      rotation: {x: -0.0311903, y: -0.09888912, z: -0.023231525, w: 0.9943382}
+      scale: {x: 1.0000004, y: 0.9999999, z: 1.0000004}
+    - name: shrek:jnt_l_head_browOuter
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -13.613431, y: 9.221765, z: 20.144583}
+      rotation: {x: 0.05044875, y: -0.23486705, z: 0.0136017045, w: 0.9706222}
+      scale: {x: 1.0000007, y: 1, z: 1.0000007}
+    - name: shrek:jnt_l_head_cheek
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -11.996147, y: -8.024607, z: 22.860176}
+      rotation: {x: 0.004920995, y: -0.00046765976, z: 0.0055542476, w: 0.9999724}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000002}
+    - name: shrek:jnt_r_head_cheek
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 11.996109, y: -8.024939, z: 22.860216}
+      rotation: {x: -0.99997234, y: 0.005554243, z: 0.00046767617, w: 0.004920996}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: shrek:jnt_c_head_jaw
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -0.050101165, y: -8.810881, z: -2.4451199}
+      rotation: {x: 0.118788846, y: 3.5527137e-15, z: 4.440892e-16, w: 0.99291956}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: shrek:jnt_l_head_eye
+      parentName: shrek:jnt_c_torso_head
+      position: {x: -8.009979, y: 2.5644197, z: 15.679322}
+      rotation: {x: 0.000000014901159, y: -5.4569678e-12, z: 7.50333e-12, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: shrek:jnt_r_head_eye
+      parentName: shrek:jnt_c_torso_head
+      position: {x: 7.999794, y: 2.56442, z: 15.679322}
+      rotation: {x: 0.000000014901159, y: -5.4569678e-12, z: 7.50333e-12, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
