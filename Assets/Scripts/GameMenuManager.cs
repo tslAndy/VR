@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 
 public class GameMenuManager : MonoBehaviour
@@ -10,6 +11,8 @@ public class GameMenuManager : MonoBehaviour
     public float spawnDistance = 2;
     public GameObject menu;
     public InputActionProperty showButton;
+
+    [SerializeField] private string mainMenuSceneName;
 
     private void Update()
     {
@@ -22,4 +25,7 @@ public class GameMenuManager : MonoBehaviour
         menu.transform.LookAt(new Vector3(head.position.x, menu.transform.position.y, head.position.z));
         menu.transform.forward *= -1;
     }
+
+    public void Exit() => Application.Quit();
+    public void ExitToMainMenu() => SceneManager.LoadScene(mainMenuSceneName);
 }
