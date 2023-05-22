@@ -1280,7 +1280,7 @@ PrefabInstance:
     - target: {fileID: 8049781687257694172, guid: 254dc940bfefa7e48af3bfd3defcb21f, type: 3}
       propertyPath: showButton.m_Reference
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: -1380196284275373049, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     - target: {fileID: 8049781687257694173, guid: 254dc940bfefa7e48af3bfd3defcb21f, type: 3}
       propertyPath: m_Name
       value: GameMenu
