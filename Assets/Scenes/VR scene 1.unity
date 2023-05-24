@@ -1786,6 +1786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cam: {fileID: 634890277}
+  spawnDistance: 0.5
 --- !u!1001 &208274840
 PrefabInstance:
   m_ObjectHideFlags: 0
