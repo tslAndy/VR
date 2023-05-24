@@ -17,16 +17,19 @@ public class NoteManager : MonoBehaviour
     {
         TotalNotes++;
         ChangeText();
-        note.active = false;
-        if(TotalNotes == 3)
+        note.SetActive(false);
+        switch (TotalNotes)
         {
-            shrek.speed *= 1.5f;
-            shrek.GetComponent<Animator>().SetTrigger("MoveToNextPhase");
-        }
-        if (TotalNotes == 6)
-        {
-            shrek.speed *= 1.5f;
-            shrek.GetComponent<Animator>().SetTrigger("MoveToNextPhase");
+            case 3:
+                shrek.speed *= 1.5f;
+                shrek.GetComponent<Animator>().SetTrigger("MoveToNextPhase");
+                break;
+            case 6:
+                shrek.speed *= 1.5f;
+                shrek.GetComponent<Animator>().SetTrigger("MoveToLastPhase");
+                break;
+            default:
+                break;
         }
     }
 
