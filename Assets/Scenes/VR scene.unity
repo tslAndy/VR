@@ -3669,7 +3669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1166291986}
   - component: {fileID: 1166291987}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14321,7 +14321,7 @@ GameObject:
   - component: {fileID: 9129622655589149804}
   - component: {fileID: 2276149481156774416}
   - component: {fileID: 56875139860950232}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15638,7 +15638,7 @@ GameObject:
   - component: {fileID: 6515668196494131650}
   - component: {fileID: 5694282105277274395}
   - component: {fileID: 108139646046608961}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16597,7 +16597,7 @@ GameObject:
   - component: {fileID: 4022909565255172350}
   - component: {fileID: 7857598822267272325}
   - component: {fileID: 1020669379776155310}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: reflector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16937,7 +16937,7 @@ GameObject:
   - component: {fileID: 8648374794099906991}
   - component: {fileID: 8648374794099906990}
   - component: {fileID: 8648374794099906989}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: hand_light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
