@@ -39,7 +39,7 @@ public class Ripples : MonoBehaviour
         {
             int y = (int)transform.eulerAngles.y;
             CreateRipple(y-100, y+100, 3, 5, 0.5f, 1);
-            Debug.Log("Create ripple exit");
+            //Debug.Log("Create ripple exit");
         }
 
     }
