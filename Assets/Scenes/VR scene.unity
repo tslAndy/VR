@@ -15858,7 +15858,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90069faf98870014d85d3815161c2ef9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  deathRoomName: VR Scene 1
+  deathRoomName: VR Death Scene
 --- !u!65 &4712750110370057234
 BoxCollider:
   m_ObjectHideFlags: 0
