@@ -1065,7 +1065,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: YOU DIED (COMPLETELY)
+  m_text: YOU WIN
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b031cacbec8562b4ca8c9151cd92d1b6, type: 2}
   m_sharedMaterial: {fileID: 5134706578061867376, guid: b031cacbec8562b4ca8c9151cd92d1b6, type: 2}
@@ -1074,8 +1074,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4279807337
+  m_fontColor: {r: 0.4102235, g: 0.6792453, b: 0.09291565, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2847,7 +2847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a7ae9a10d18b5f4c98145287f7ba6ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameSceneName: VR scene
+  gameSceneName: MainMenu
 --- !u!1 &1573600860
 GameObject:
   m_ObjectHideFlags: 0
@@ -2949,8 +2949,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4279807593
+  m_fontColor: {r: 0.4117647, g: 0.68235296, b: 0.09411765, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3074,7 +3074,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: RESTART
+  m_text: Menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b031cacbec8562b4ca8c9151cd92d1b6, type: 2}
   m_sharedMaterial: {fileID: 5134706578061867376, guid: b031cacbec8562b4ca8c9151cd92d1b6, type: 2}
@@ -3083,8 +3083,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190335
-  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
+    rgba: 4279807593
+  m_fontColor: {r: 0.4117647, g: 0.68235296, b: 0.09411765, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

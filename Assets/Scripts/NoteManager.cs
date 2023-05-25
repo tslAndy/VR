@@ -6,13 +6,21 @@ using UnityEngine.AI;
 
 public class NoteManager : MonoBehaviour
 {
-    public static int TotalNotes = 0;
+    public static int TotalNotes = 6;
 
     [SerializeField]
     TMP_Text notesText;
     [SerializeField]
     NavMeshAgent shrek;
 
+    [SerializeField]
+    GameObject wall;
+
+
+    private void OnLevelWasLoaded(int level)
+    {
+        TotalNotes = 0;
+    }
     public void AddNote(GameObject note)
     {
         TotalNotes++;
@@ -28,6 +36,10 @@ public class NoteManager : MonoBehaviour
                 shrek.speed *= 1.5f;
                 shrek.GetComponent<Animator>().SetTrigger("MoveToLastPhase");
                 break;
+            case 7:
+                OpenExit();
+                notesText.text = "Run to the exit!";
+                break;
             default:
                 break;
         }
@@ -36,5 +48,9 @@ public class NoteManager : MonoBehaviour
     public void ChangeText()
     {
         notesText.text = TotalNotes.ToString();
+    }
+    public void OpenExit()
+    {
+        wall.transform.position += new Vector3(7f, 0f, 0f);
     }
 }
