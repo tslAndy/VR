@@ -483,7 +483,7 @@ MonoBehaviour:
       m_SingletonActionBindings: []
       m_Flags: 0
     m_Reference: {fileID: -1380196284275373049, guid: c348712bda248c246b8c49b3db54643f, type: 3}
-  mainMenuSceneName: 
+  mainMenuSceneName: MainMenu
 --- !u!1 &8049781688006957590
 GameObject:
   m_ObjectHideFlags: 0
