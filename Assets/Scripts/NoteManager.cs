@@ -6,7 +6,7 @@ using UnityEngine.AI;
 
 public class NoteManager : MonoBehaviour
 {
-    public static int TotalNotes = 6;
+    public static int TotalNotes = 0;
 
     [SerializeField]
     TMP_Text notesText;
@@ -28,6 +28,10 @@ public class NoteManager : MonoBehaviour
         note.SetActive(false);
         switch (TotalNotes)
         {
+            case 1:
+                shrek.gameObject.SetActive(true);
+                shrek.speed = 0.5f;
+                break;
             case 3:
                 shrek.speed *= 1.5f;
                 shrek.GetComponent<Animator>().SetTrigger("MoveToNextPhase");

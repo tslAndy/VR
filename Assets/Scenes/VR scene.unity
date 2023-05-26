@@ -8554,7 +8554,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 0.5
+  m_Speed: 0
   m_Acceleration: 1
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -9427,7 +9427,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &919132148154508889
 AudioSource:
   m_ObjectHideFlags: 0
@@ -12698,7 +12698,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8648374794099906988}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.231869, y: 5.952575, z: -8.433724}
+  m_LocalPosition: {x: 13.406, y: 5.952575, z: -8.433724}
   m_LocalScale: {x: 0.03, y: 0.03, z: 0.03}
   m_Children:
   - {fileID: 1166291986}
