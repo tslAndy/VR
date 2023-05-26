@@ -2908,7 +2908,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a7ae9a10d18b5f4c98145287f7ba6ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameSceneName: VR scene
+  gameSceneName: VR Scene
 --- !u!1 &1573600860
 GameObject:
   m_ObjectHideFlags: 0
